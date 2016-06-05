@@ -1,0 +1,27 @@
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerieBLL\obj\Release\GestionInfirmerieBLL.csprojResolveAssemblyReference.cache
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Release\GestionInfirmerieBLL.dll
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Release\GestionInfirmerieBLL.pdb
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Release\GestionInfirmerieBO.dll
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Release\GestionInfirmerieDAL.dll
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Release\GestionInfirmerieBO.pdb
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Release\GestionInfirmerieDAL.pdb
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerieBLL\obj\Release\GestionInfirmerieBLL.dll
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerieBLL\obj\Release\GestionInfirmerieBLL.pdb
+E:\GestionInfirmerieWF1\GestionInfirmerieBLL\bin\Release\GestionInfirmerieBLL.dll
+E:\GestionInfirmerieWF1\GestionInfirmerieBLL\bin\Release\GestionInfirmerieBLL.pdb
+E:\GestionInfirmerieWF1\GestionInfirmerieBLL\bin\Release\GestionInfirmerieBO.dll
+E:\GestionInfirmerieWF1\GestionInfirmerieBLL\bin\Release\GestionInfirmerieDAL.dll
+E:\GestionInfirmerieWF1\GestionInfirmerieBLL\bin\Release\GestionInfirmerieBO.pdb
+E:\GestionInfirmerieWF1\GestionInfirmerieBLL\bin\Release\GestionInfirmerieDAL.pdb
+E:\GestionInfirmerieWF1\GestionInfirmerieBLL\obj\Release\GestionInfirmerieBLL.dll
+E:\GestionInfirmerieWF1\GestionInfirmerieBLL\obj\Release\GestionInfirmerieBLL.pdb
+E:\GestionInfirmerieWF1\GestionInfirmerieBLL\obj\Release\ResolveAssemblyReference.cache
+E:\Groupe2\GestionInfirmerie\GestionInfirmerieBLL\bin\Release\GestionInfirmerieBLL.dll
+E:\Groupe2\GestionInfirmerie\GestionInfirmerieBLL\bin\Release\GestionInfirmerieBLL.pdb
+E:\Groupe2\GestionInfirmerie\GestionInfirmerieBLL\bin\Release\GestionInfirmerieBO.dll
+E:\Groupe2\GestionInfirmerie\GestionInfirmerieBLL\bin\Release\GestionInfirmerieDAL.dll
+E:\Groupe2\GestionInfirmerie\GestionInfirmerieBLL\bin\Release\GestionInfirmerieBO.pdb
+E:\Groupe2\GestionInfirmerie\GestionInfirmerieBLL\bin\Release\GestionInfirmerieDAL.pdb
+E:\Groupe2\GestionInfirmerie\GestionInfirmerieBLL\obj\Release\ResolveAssemblyReference.cache
+E:\Groupe2\GestionInfirmerie\GestionInfirmerieBLL\obj\Release\GestionInfirmerieBLL.dll
+E:\Groupe2\GestionInfirmerie\GestionInfirmerieBLL\obj\Release\GestionInfirmerieBLL.pdb

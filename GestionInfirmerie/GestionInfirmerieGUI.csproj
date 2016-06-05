@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DDC8A025-C377-4B3C-BE68-7D3B0EFB3406}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GestionInfirmerie</RootNamespace>
+    <AssemblyName>GestionInfirmerie</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.ConnectionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.Management.Sdk.Sfc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Smo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.Smo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SmoExtended, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.SmoExtended.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SqlEnum, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.SqlEnum.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classe\FrmModuleAjoutClasse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classe\FrmModuleAjoutClasse.designer.cs">
+      <DependentUpon>FrmModuleAjoutClasse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Médicament\FrmModuleArchivageMedicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Médicament\FrmModuleArchivageMedicament.designer.cs">
+      <DependentUpon>FrmModuleArchivageMedicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classe\FrmModuleDeleteClasse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classe\FrmModuleDeleteClasse.designer.cs">
+      <DependentUpon>FrmModuleDeleteClasse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Médicament\FrmModuleDesarchivageMedicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Médicament\FrmModuleDesarchivageMedicament.designer.cs">
+      <DependentUpon>FrmModuleDesarchivageMedicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classe\FrmModuleEditClasse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classe\FrmModuleEditClasse.designer.cs">
+      <DependentUpon>FrmModuleEditClasse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classe\FrmModuleGestionClasse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classe\FrmModuleGestionClasse.designer.cs">
+      <DependentUpon>FrmModuleGestionClasse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visite\FrmModuleEditVisite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visite\FrmModuleEditVisite.designer.cs">
+      <DependentUpon>FrmModuleEditVisite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visite\FrmModuleDetailsVisite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visite\FrmModuleDetailsVisite.designer.cs">
+      <DependentUpon>FrmModuleDetailsVisite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visite\FrmModuleListeVisites.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visite\FrmModuleListeVisites.Designer.cs">
+      <DependentUpon>FrmModuleListeVisites.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visite\FrmModuleAddVisite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visite\FrmModuleAddVisite.designer.cs">
+      <DependentUpon>FrmModuleAddVisite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eleve\FrmModuleListeModifierEleve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eleve\FrmModuleListeModifierEleve.designer.cs">
+      <DependentUpon>FrmModuleListeModifierEleve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eleve\FrmDetailsEleve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eleve\FrmDetailsEleve.designer.cs">
+      <DependentUpon>FrmDetailsEleve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eleve\FrmModuleAjoutEleve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eleve\FrmModuleAjoutEleve.designer.cs">
+      <DependentUpon>FrmModuleAjoutEleve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Médicament\FrmModuleAjoutMedicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Médicament\FrmModuleAjoutMedicament.designer.cs">
+      <DependentUpon>FrmModuleAjoutMedicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModuleConnexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModuleConnexion.Designer.cs">
+      <DependentUpon>FrmModuleConnexion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModuleGestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModuleGestion.designer.cs">
+      <DependentUpon>FrmModuleGestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eleve\FrmModuleGestionEleve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eleve\FrmModuleGestionEleve.designer.cs">
+      <DependentUpon>FrmModuleGestionEleve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Médicament\FrmModuleGestionMedicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Médicament\FrmModuleGestionMedicament.designer.cs">
+      <DependentUpon>FrmModuleGestionMedicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eleve\FrmModuleListeEleve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eleve\FrmModuleListeEleve.Designer.cs">
+      <DependentUpon>FrmModuleListeEleve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModuleMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModuleMaintenance.Designer.cs">
+      <DependentUpon>FrmModuleMaintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Médicament\FrmModuleMedicModif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Médicament\FrmModuleMedicModif.Designer.cs">
+      <DependentUpon>FrmModuleMedicModif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eleve\FrmModuleModifierEleve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eleve\FrmModuleModifierEleve.designer.cs">
+      <DependentUpon>FrmModuleModifierEleve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Médicament\FrmModuleSupprimerMedicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Médicament\FrmModuleSupprimerMedicament.designer.cs">
+      <DependentUpon>FrmModuleSupprimerMedicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModuleSynthese.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModuleSynthese.designer.cs">
+      <DependentUpon>FrmModuleSynthese.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gestioninfirmiere_prodtest.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestioninfirmiere_prodtest.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Classe\FrmModuleAjoutClasse.resx">
+      <DependentUpon>FrmModuleAjoutClasse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Médicament\FrmModuleArchivageMedicament.resx">
+      <DependentUpon>FrmModuleArchivageMedicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classe\FrmModuleDeleteClasse.resx">
+      <DependentUpon>FrmModuleDeleteClasse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Médicament\FrmModuleDesarchivageMedicament.resx">
+      <DependentUpon>FrmModuleDesarchivageMedicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classe\FrmModuleEditClasse.resx">
+      <DependentUpon>FrmModuleEditClasse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classe\FrmModuleGestionClasse.resx">
+      <DependentUpon>FrmModuleGestionClasse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visite\FrmModuleEditVisite.resx">
+      <DependentUpon>FrmModuleEditVisite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visite\FrmModuleDetailsVisite.resx">
+      <DependentUpon>FrmModuleDetailsVisite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visite\FrmModuleListeVisites.resx">
+      <DependentUpon>FrmModuleListeVisites.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visite\FrmModuleAddVisite.resx">
+      <DependentUpon>FrmModuleAddVisite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eleve\FrmModuleListeModifierEleve.resx">
+      <DependentUpon>FrmModuleListeModifierEleve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eleve\FrmDetailsEleve.resx">
+      <DependentUpon>FrmDetailsEleve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eleve\FrmModuleAjoutEleve.resx">
+      <DependentUpon>FrmModuleAjoutEleve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Médicament\FrmModuleAjoutMedicament.resx">
+      <DependentUpon>FrmModuleAjoutMedicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModuleConnexion.resx">
+      <DependentUpon>FrmModuleConnexion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModuleGestion.resx">
+      <DependentUpon>FrmModuleGestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eleve\FrmModuleGestionEleve.resx">
+      <DependentUpon>FrmModuleGestionEleve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Médicament\FrmModuleGestionMedicament.resx">
+      <DependentUpon>FrmModuleGestionMedicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eleve\FrmModuleListeEleve.resx">
+      <DependentUpon>FrmModuleListeEleve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModuleMaintenance.resx">
+      <DependentUpon>FrmModuleMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Médicament\FrmModuleMedicModif.resx">
+      <DependentUpon>FrmModuleMedicModif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eleve\FrmModuleModifierEleve.resx">
+      <DependentUpon>FrmModuleModifierEleve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Médicament\FrmModuleSupprimerMedicament.resx">
+      <DependentUpon>FrmModuleSupprimerMedicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModuleSynthese.resx">
+      <DependentUpon>FrmModuleSynthese.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="gestioninfirmiere_prodtest.xsc">
+      <DependentUpon>gestioninfirmiere_prodtest.xsd</DependentUpon>
+    </None>
+    <None Include="gestioninfirmiere_prodtest.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestioninfirmiere_prodtest.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestioninfirmiere_prodtest.xss">
+      <DependentUpon>gestioninfirmiere_prodtest.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GestionInfirmerieBLL\GestionInfirmerieBLL.csproj">
+      <Project>{891D8DC6-AB06-4819-BFCC-41A3B4A89B46}</Project>
+      <Name>GestionInfirmerieBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GestionInfirmerieBO\GestionInfirmerieBO.csproj">
+      <Project>{F4ABC793-C5B3-4ABA-9AF9-25A04A3677B5}</Project>
+      <Name>GestionInfirmerieBO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GestionInfirmerieDAL\GestionInfirmerieDAL.csproj">
+      <Project>{6E6C306E-F18C-499A-A597-A398E120EFBC}</Project>
+      <Name>GestionInfirmerieDAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="MMC20">
+      <Guid>{8E80422B-CAC4-472B-B272-9635F1DFEF3B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="mscoree">
+      <Guid>{5477469E-83B1-11D2-8B49-00A0C9B7C9C4}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,102 @@
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmDetailsEleve.resources
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleAjoutEleve.resources
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleConnexion.resources
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleGestion.resources
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleGestionEleve.resources
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleGestionMedicament.resources
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleListeEleve.resources
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleMedicModif.resources
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleModifierEleve.resources
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.Properties.Resources.resources
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Release\GestionInfirmerieGUI.csproj.GenerateResource.Cache
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Release\GestionInfirmerieGUI.csprojResolveAssemblyReference.cache
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmDetailsEleve.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleAjoutEleve.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleAjoutMedicament.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleConnexion.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleGestion.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleGestionEleve.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleGestionMedicament.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleListeEleve.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleListeVisites.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleMaintenance.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleMedicModif.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleModifierEleve.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleSupprimerMedicament.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleSynthese.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.Properties.Resources.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\bin\Release\GestionInfirmerie.exe.config
+E:\GestionInfirmerieWF1\GestionInfirmerie\bin\Release\GestionInfirmerie.exe
+E:\GestionInfirmerieWF1\GestionInfirmerie\bin\Release\GestionInfirmerie.pdb
+E:\GestionInfirmerieWF1\GestionInfirmerie\bin\Release\GestionInfirmerieBLL.dll
+E:\GestionInfirmerieWF1\GestionInfirmerie\bin\Release\GestionInfirmerieBO.dll
+E:\GestionInfirmerieWF1\GestionInfirmerie\bin\Release\GestionInfirmerieDAL.dll
+E:\GestionInfirmerieWF1\GestionInfirmerie\bin\Release\GestionInfirmerieBLL.pdb
+E:\GestionInfirmerieWF1\GestionInfirmerie\bin\Release\GestionInfirmerieBO.pdb
+E:\GestionInfirmerieWF1\GestionInfirmerie\bin\Release\GestionInfirmerieDAL.pdb
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.exe
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.pdb
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerieGUI.csproj.ResolveComReference.cache
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleListeModifierEleve.resources
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF1\GestionInfirmerie\bin\Release\GestionInfirmerie.exe.config
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\Interop.AcroPDFLib.dll
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerieGUI.csproj.ResolveComReference.cache
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.exe
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.pdb
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleAddVisite.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleDetailsVisite.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleEditVisite.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleGestionClasse.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\Interop.MMC20.dll
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\Interop.mscoree.dll
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleAjoutClasse.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleDeleteClasse.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleEditClasse.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleArchivageMedicament.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleDesarchivageMedicament.resources
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\ResolveAssemblyReference.cache
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GenerateResource.read.1.tlog
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\bin\Release\GestionInfirmerie.exe.config
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\Interop.MMC20.dll
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\Interop.mscoree.dll
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerieGUI.csproj.ResolveComReference.cache
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.exe
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\bin\Release\GestionInfirmerie.exe
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\bin\Release\GestionInfirmerie.pdb
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\bin\Release\GestionInfirmerieBLL.dll
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\bin\Release\GestionInfirmerieBO.dll
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\bin\Release\GestionInfirmerieDAL.dll
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\bin\Release\GestionInfirmerieBLL.pdb
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\bin\Release\GestionInfirmerieBO.pdb
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\bin\Release\GestionInfirmerieDAL.pdb
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleAjoutClasse.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleArchivageMedicament.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleDeleteClasse.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleDesarchivageMedicament.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleEditClasse.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleGestionClasse.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleEditVisite.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleDetailsVisite.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleListeVisites.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleAddVisite.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleListeModifierEleve.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmDetailsEleve.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleAjoutEleve.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleAjoutMedicament.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleConnexion.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleGestion.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleGestionEleve.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleGestionMedicament.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleListeEleve.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleMaintenance.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleMedicModif.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleModifierEleve.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleSupprimerMedicament.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.FrmModuleSynthese.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.Properties.Resources.resources
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Groupe2\GestionInfirmerie\GestionInfirmerie\obj\x86\Release\GestionInfirmerie.pdb

@@ -1,0 +1,54 @@
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerie.exe
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerie.pdb
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.Properties.Resources.resources
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerieGUI.csproj.GenerateResource.Cache
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.exe
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.pdb
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.FrmModuleConnexion.resources
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.exe
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.pdb
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerie.exe
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerie.pdb
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.FrmModuleConnexion.resources
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.Properties.Resources.resources
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerieBLL.dll
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerieBO.dll
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerieBLL.pdb
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerieBO.pdb
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerie.exe.config
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerieDAL.dll
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerieDAL.pdb
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.FrmModuleListeEleve.resources
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.FrmModuleModifierEleve.resources
+E:\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerie.exe.config
+E:\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerie.exe
+E:\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerie.pdb
+E:\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerieBLL.dll
+E:\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerieBO.dll
+E:\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerieDAL.dll
+E:\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerieBLL.pdb
+E:\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerieBO.pdb
+E:\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerieDAL.pdb
+E:\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerieGUI.csprojResolveAssemblyReference.cache
+E:\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.FrmModuleAjoutEleve.resources
+E:\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.FrmModuleConnexion.resources
+E:\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.FrmModuleGestion.resources
+E:\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.FrmModuleListeEleve.resources
+E:\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.FrmModuleMedicModif.resources
+E:\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.FrmModuleModifierEleve.resources
+E:\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.Properties.Resources.resources
+E:\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerieGUI.csproj.GenerateResource.Cache
+E:\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.exe
+E:\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.pdb
+E:\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.FrmModuleGestionEleve.resources
+E:\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.FrmModuleGestionMedicament.resources
+E:\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.FrmDetailsEleve.resources
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerie\bin\Debug\GestionInfirmerie.exe.config
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.exe
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.pdb
+E:\GestionInfirmerieWF1\GestionInfirmerie\bin\Debug\GestionInfirmerie.exe.config
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.exe
+E:\GestionInfirmerieWF1\GestionInfirmerie\obj\x86\Debug\GestionInfirmerie.pdb

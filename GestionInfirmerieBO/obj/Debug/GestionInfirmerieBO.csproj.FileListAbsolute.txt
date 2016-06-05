@@ -1,0 +1,13 @@
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerieBO\bin\Debug\GestionInfirmerieBO.dll
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerieBO\bin\Debug\GestionInfirmerieBO.pdb
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerieBO\obj\Debug\GestionInfirmerieBO.dll
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerieBO\obj\Debug\GestionInfirmerieBO.pdb
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerieBO\bin\Debug\GestionInfirmerieBO.dll
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerieBO\bin\Debug\GestionInfirmerieBO.pdb
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerieBO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerieBO\obj\Debug\GestionInfirmerieBO.dll
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerieBO\obj\Debug\GestionInfirmerieBO.pdb
+E:\GestionInfirmerieWF\GestionInfirmerieBO\bin\Debug\GestionInfirmerieBO.dll
+E:\GestionInfirmerieWF\GestionInfirmerieBO\bin\Debug\GestionInfirmerieBO.pdb
+E:\GestionInfirmerieWF\GestionInfirmerieBO\obj\Debug\GestionInfirmerieBO.dll
+E:\GestionInfirmerieWF\GestionInfirmerieBO\obj\Debug\GestionInfirmerieBO.pdb

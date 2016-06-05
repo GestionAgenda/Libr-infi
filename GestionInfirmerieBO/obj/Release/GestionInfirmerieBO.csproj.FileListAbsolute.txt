@@ -1,0 +1,14 @@
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerieBO\bin\Release\GestionInfirmerieBO.dll
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerieBO\bin\Release\GestionInfirmerieBO.pdb
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerieBO\obj\Release\GestionInfirmerieBO.dll
+G:\PPE BTS 2 GROUPE 2\GestionInfirmerieWF\GestionInfirmerieBO\obj\Release\GestionInfirmerieBO.pdb
+E:\GestionInfirmerieWF1\GestionInfirmerieBO\bin\Release\GestionInfirmerieBO.dll
+E:\GestionInfirmerieWF1\GestionInfirmerieBO\bin\Release\GestionInfirmerieBO.pdb
+E:\GestionInfirmerieWF1\GestionInfirmerieBO\obj\Release\GestionInfirmerieBO.dll
+E:\GestionInfirmerieWF1\GestionInfirmerieBO\obj\Release\GestionInfirmerieBO.pdb
+E:\GestionInfirmerieWF1\GestionInfirmerieBO\obj\Release\ResolveAssemblyReference.cache
+E:\Groupe2\GestionInfirmerie\GestionInfirmerieBO\bin\Release\GestionInfirmerieBO.dll
+E:\Groupe2\GestionInfirmerie\GestionInfirmerieBO\bin\Release\GestionInfirmerieBO.pdb
+E:\Groupe2\GestionInfirmerie\GestionInfirmerieBO\obj\Release\ResolveAssemblyReference.cache
+E:\Groupe2\GestionInfirmerie\GestionInfirmerieBO\obj\Release\GestionInfirmerieBO.dll
+E:\Groupe2\GestionInfirmerie\GestionInfirmerieBO\obj\Release\GestionInfirmerieBO.pdb

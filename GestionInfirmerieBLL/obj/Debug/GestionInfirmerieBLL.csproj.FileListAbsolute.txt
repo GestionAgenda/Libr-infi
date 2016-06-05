@@ -1,0 +1,27 @@
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieBLL.dll
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieBLL.pdb
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerieBLL\obj\Debug\GestionInfirmerieBLL.dll
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerieBLL\obj\Debug\GestionInfirmerieBLL.pdb
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieBO.dll
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieDAL.dll
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieBO.pdb
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieDAL.pdb
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionInfirmerieWF\GestionInfirmerieBLL\obj\Debug\GestionInfirmerieBLL.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieBLL.dll
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieBLL.pdb
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieBO.dll
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieDAL.dll
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieBO.pdb
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieDAL.pdb
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerieBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerieBLL\obj\Debug\GestionInfirmerieBLL.dll
+C:\Users\Public\Documents\partageVM_CorentinRegnier\GestionInfirmerieWF\GestionInfirmerieBLL\obj\Debug\GestionInfirmerieBLL.pdb
+E:\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieBLL.dll
+E:\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieBLL.pdb
+E:\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieBO.dll
+E:\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieDAL.dll
+E:\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieBO.pdb
+E:\GestionInfirmerieWF\GestionInfirmerieBLL\bin\Debug\GestionInfirmerieDAL.pdb
+E:\GestionInfirmerieWF\GestionInfirmerieBLL\obj\Debug\GestionInfirmerieBLL.csprojResolveAssemblyReference.cache
+E:\GestionInfirmerieWF\GestionInfirmerieBLL\obj\Debug\GestionInfirmerieBLL.dll
+E:\GestionInfirmerieWF\GestionInfirmerieBLL\obj\Debug\GestionInfirmerieBLL.pdb
